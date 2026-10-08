@@ -1,11 +1,26 @@
 # My Website
 
-My first personal website built with HTML.
+A simple personal website built with HTML and CSS.
 
-## Built With
+## Technologies
 
 - HTML
+- CSS
+
+## About
+
+This project is a personal website where I practiced HTML and CSS
+and applied the concepts I learned.
+
+## Features
+
+- Personal introduction
+- Skills section
+- Contact section
+- Custom background
+- Responsive design
+- CSS styling, layout, and animations
 
 ## Author
 
-Imad 
+Eudoxus
