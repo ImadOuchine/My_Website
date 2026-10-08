@@ -8,4 +8,4 @@ My first personal website built with HTML.
 
 ## Author
 
-Imad Ouchine
+Imad 
