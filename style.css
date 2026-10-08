@@ -1,0 +1,62 @@
+body{
+    background-image:url("images/background.jpg"); 
+    background-size: cover;
+}
+.broi{
+    color: rgb(7, 18, 100);
+    font-size: 65px;
+}
+
+.name{
+    text-decoration: underline;
+}
+
+#information{
+    background-color: rgba(9, 9, 66, 0.35);
+    font-size:25px;
+    font-weight: bold;
+    width: 500px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+#skills{
+    background-color: rgba(9, 9, 66, 0.35);
+    box-sizing: border-box;
+    border: 5px solid black;
+    font-weight: bold;
+    width: 450px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 17px;
+}
+#accounts{
+    background-color: rgba(9, 9, 66, 0.35);
+    box-sizing: border-box;
+    font-weight: bold;
+    border: 5px solid black;
+    width: 370px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 15px;
+    font-size: 17px;
+}
+
+
+.addodo{
+    position:relative;
+    left: 20px;
+}
+nav {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 20px;
+}
+.lory{
+    font-size: 20px;
+    text-shadow: 2px 2px 4px rgb(119, 72, 72);
+}
